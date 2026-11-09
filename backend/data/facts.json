@@ -1,0 +1,21 @@
+{
+  "full_name": "Juan Guillermo Valdés Chacón",
+  "name": "El cafetero",
+  "current_role": "Líder de arquitectura",
+  "location": "Medellín",
+  "email": "juang.valdes@hotmail.com",
+  "linkedin": "https://www.linkedin.com/in/juan-guillermo-valdes-chacon-87188961/",
+  "specialties": [
+    "Consultoria",
+    "Arquitectura de soluciones",
+    "IA"
+  ],
+  "years_experience": 15,
+  "education": [
+    {
+      "degree": "Magister en administración de negocios tecnologicos",
+      "institution": "OBS Business School",
+      "year": "2026"
+    }
+  ]
+}
